@@ -1,4 +1,5 @@
 # marvelians
 
-link : meikotrip.github.io/index.html or marvelians.me
+link : meikotrip.github.io/index.html
+
        
