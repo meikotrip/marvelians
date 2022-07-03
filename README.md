@@ -1,4 +1,4 @@
-# TA PRAK PEMROGRAMAN WEB 1
+# TUGAS AKHIR (TA) PEMROGRAMAN WEB I
 
 Membuat sebuah website organisasi atau perusahaan yang responsive menggunakan framework Bootstrap.
 
